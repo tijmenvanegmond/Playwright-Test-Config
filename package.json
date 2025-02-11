@@ -1,0 +1,9 @@
+{
+  "name": "test-config",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@playwright/test": "^1.50.1"
+  }
+}
